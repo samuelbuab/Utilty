@@ -4,5 +4,4 @@
 ## Requirements
 ruby >= 1.9
 
-## End
 
