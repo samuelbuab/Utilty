@@ -23,8 +23,12 @@ class DownloadLink
   end
   
   private
-  def command_protocals                         # no use
+  def xx                     # no use
     ["http","https","ftp"]
+  end
+  
+  def command_protocals    
+    xx
   end
   
   def pri_protocals    
