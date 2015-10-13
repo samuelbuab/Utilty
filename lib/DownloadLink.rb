@@ -1,4 +1,4 @@
-#
+# encoding
 require 'base64'
 class DownloadLink
   attr_reader :protocal, :url
