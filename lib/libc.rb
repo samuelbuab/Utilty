@@ -1,3 +1,4 @@
+# encoding
 require 'ffi'
 
 module LibC
