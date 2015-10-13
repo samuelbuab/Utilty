@@ -1,4 +1,4 @@
-# encoding
+# encoding: utf-8
 require 'ffi'
 
 module LibC
